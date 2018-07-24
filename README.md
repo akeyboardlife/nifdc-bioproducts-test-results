@@ -1,6 +1,6 @@
 # 中检院生物制品批签发信息公示表
 
-需要查询可以直接下载相应年份excel文件，csv包括全部年份
+需要查询可以直接下载相应年份excel文件，csv包括13-18年
 
 ## [2018年公示网站](http://www.nifdc.org.cn/directory/web/WS02/CL0108/)
 
